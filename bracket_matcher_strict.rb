@@ -12,6 +12,7 @@ def bracket_matcher(string)
   @elements.each_with_index do |element, index|
     next if index == 0
 
+    # finding how many times exactly closing bracket is present in each element of the array
     # closing_bracket_ocurrences = element.count(')')
     @closing_bracket_count += element.count(')')
   end

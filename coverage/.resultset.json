@@ -19,7 +19,8 @@
         1,
         null
       ],
-      "/Users/irina/challenges/bracket-matcher/bracket_matcher.rb": [
+      "/Users/irina/challenges/bracket-matcher/bracket_matcher_strict.rb": [
+        null,
         null,
         null,
         null,
@@ -28,16 +29,20 @@
         8,
         8,
         8,
+        8,
+        8,
+        8,
         17,
+        null,
+        null,
+        null,
         9,
         null,
-        4,
-        4,
-        null,
-        4,
+        8,
+        8,
         null
       ]
     },
-    "timestamp": 1565370966
+    "timestamp": 1565371130
   }
 }
