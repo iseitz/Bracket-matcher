@@ -1,0 +1,43 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/irina/challenges/bracket-matcher/spec_helper.rb": [
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/irina/challenges/bracket-matcher/bracket_matcher.rb": [
+        null,
+        null,
+        null,
+        null,
+        1,
+        8,
+        8,
+        8,
+        17,
+        9,
+        null,
+        4,
+        4,
+        null,
+        4,
+        null
+      ]
+    },
+    "timestamp": 1565370966
+  }
+}
